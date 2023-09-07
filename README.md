@@ -1,7 +1,7 @@
-<img align="center" alt="gif" src="https://uploads-ssl.webflow.com/5ece2a5849bce17e045c5071/621641ccefdf188172e656d1_13GttnexwnpzzzMOxel66fvZw3GrOnKXpoTdapgnwpm4_DbLT5l784fnZ60YtMOy_8SN0ndkvIFzVr03zt_0ZBAz7coFAFzzQ3jizirdjKSgsJCjCch72e4CIP5w8dnGQXOTN18.gif">
+<img align="center" alt="coding" src="https://pbs.twimg.com/media/FSgsUw1WQAEPe2b.jpg:large">
 <h1 align="center">Hi 👋, I'm yousif</h1>
 <h3 align="center">A passionate mobile app developer from kurdistan</h3>
-<img align="right" alt="coding" width="600" src="https://pbs.twimg.com/media/FSgsUw1WQAEPe2b.jpg:large">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousif-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-kamal" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
